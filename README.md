@@ -5,6 +5,7 @@ I build **multilingual websites and web apps** with **Next.js, TypeScript and Po
 I run [**Vidakai Studio**](https://vidakai.com), where I've shipped 8+ websites and web apps that businesses use every day. I speak Arabic, English and Turkish, and I'm based in Turkey (UTC+3).
 
 💼 **Open to remote roles and freelance projects.**
+
 📫 [ahmed.a.alhusaini@gmail.com](mailto:ahmed.a.alhusaini@gmail.com) · [LinkedIn](https://linkedin.com/in/ahmed-alhusaini) · [ahmedalhusaini.com](https://ahmedalhusaini.com)
 
 ---
@@ -32,4 +33,5 @@ The code for client and commercial projects is private.
 #### 🛠️ What I work with
 
 **Daily:** TypeScript · React · Next.js · Tailwind CSS · PostgreSQL · Drizzle ORM · Zod
+
 **Also:** Node.js · Clerk · NextAuth · UploadThing · next-intl · OpenAI / OpenRouter APIs · email (Nodemailer) · Telegram bots · Vercel · Figma
